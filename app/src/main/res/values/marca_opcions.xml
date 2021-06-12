@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="marcas_array">
+        <item>-- Seleccione --</item>
+        <item>Americano</item>
+        <item>Europeo</item>
+        <item>Asiatico</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cotizador de Seguros</string>
+    <string name="tv_brands">Marca</string>
+    <string name="tv_ano">Año</string>
+    <string name="tv_plan">Plan</string>
+    <string name="rb_basico">Basico</string>
+    <string name="rb_completo">Completo</string>
+    <string name="title_quote">COTIZAR</string>
+    <string name="title_resume">RESUMEN DE COTIZACION</string>
+</resources>
